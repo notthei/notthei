@@ -14,9 +14,10 @@
 - 英語の勉強
 - 言葉使いを改める
 - 自己投資をしまくる
+- 身の回りの物にお金を使う
 - 酒を飲みすぎない
 - 貯金をする
-- 
+- 部屋を清潔に
 
 [![My Skills](https://skillicons.dev/icons?i=cs,dotnet,cpp,github,)](https://skillicons.dev)
 

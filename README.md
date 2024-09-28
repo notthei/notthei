@@ -19,7 +19,9 @@
 - 貯金をする
 - 部屋を清潔に
 
-[![My Skills](https://skillicons.dev/icons?i=cs,dotnet,cpp,github,)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=cs,cpp,python,php,dotnet)](https://skillicons.dev)
+<br></br>
+[![My Skills](https://skillicons.dev/icons?i=git,mysql,sqlite,linux,discord)](https://skillicons.dev)
 
 
       

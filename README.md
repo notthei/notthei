@@ -3,7 +3,7 @@
 - [x] FE
 - [ ] SG
 - [ ] SC 
-- [ ] LPiC
+- [x] LPiC
 - [ ] CCNA
 ## 
 - 休まない

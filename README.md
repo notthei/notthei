@@ -10,6 +10,8 @@
 - 酒を飲みすぎない
 - 貯金をする
 - 部屋を綺麗にする
+- 運動をサボらない
+- 無駄な浪費を削減する
 ##
 
 [![My Skills](https://skillicons.dev/icons?i=cs,cpp,python,php,dotnet)](https://skillicons.dev)

@@ -1,16 +1,16 @@
-## Hi there 👋
+# 2025
+1.資格を取る(支援士、CCNA、OSCP  
+2.セキュリティキャンプ:CodeBlueに行く  
+3.貯金をする  
+4.TOEIC600点とる  
+5.Qiitaちゃんと書く  
+6.インターンに行く  
+7.HTBランクProHackerなる  
+8.GoとRustやる  
+9.ストレスを定期的に発散する  
+10.Gitにプログラムをちゃんと載せる  
+11.健康に気おつける  
+12.天才になる  
 
-<!--
-**notthei/notthei** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
